@@ -15,9 +15,9 @@
                             </a>
                                <div class="dropdown-menu">
                                    <a href="products.php#watch" class="dropdown-item">Watches</a>
-                                   <a href="products.php#shirt" class="dropdown-item">T-Shirts</a>
-                                   <a href="products.php#shoes" class="dropdown-item">Shoes</a>
-                                   <a href="products.php#headphones" class="dropdown-item">Headphones/Speakers</a>
+                                   <a href="products.php#shirt" class="dropdown-item">Apparels</a>
+                                   <a href="products.php#shoes" class="dropdown-item">Footwear</a>
+                                   <a href="products.php#headphones" class="dropdown-item">Electronics - Headphones/Speakers</a>
                                </div>
                            
                        </li>
