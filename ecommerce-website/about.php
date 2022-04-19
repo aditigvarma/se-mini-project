@@ -47,12 +47,11 @@ session_start();
             <h3>24 hours|7 days a week| 365 days a year Live Technical Support</h3>
           </span>
           <hr>
-          <p>It is a long established fact that a reader will be distracted by the readable content of a page when
-            looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of
-            letters. There are many variations of passages of Lorel Ipsum available, but the majority have suffered
-            alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-            If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing
-            hidden in the middle of text.
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat nam ducimus a illum, at voluptate, iusto
+            eos tempora in quam exercitationem officia autem maxime deserunt. Reprehenderit necessitatibus sequi in
+            fugit? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni, facilis. Reiciendis dicta fuga esse
+            at excepturi inventore perferendis? Consequatur dicta blanditiis, magnam consequuntur possimus excepturi
+            eaque neque nulla libero temporibus!
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat nam ducimus a illum, at voluptate, iusto
             eos tempora in quam exercitationem officia autem maxime deserunt. Reprehenderit necessitatibus sequi in
             fugit? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni, facilis. Reiciendis dicta fuga esse
